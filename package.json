@@ -51,7 +51,7 @@
         "@types/justified-layout": "^4.1.4",
         "@vueuse/components": "^14.1.0",
         "@vueuse/core": "^14.0.0",
-        "axios": "^1.15.0",
+        "axios": "^1.16.0",
         "axios-cache-interceptor": "^1.11.3",
         "justified-layout": "^4.1.0",
         "laravel-vite-plugin": "^2.0.1",
